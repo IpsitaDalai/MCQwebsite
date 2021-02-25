@@ -1,5 +1,4 @@
-# MCQwebsite
-MCQ Website 
+#MCQ Website 
 -------------------------
 I have done this project in laravel.
 The version I have used is: Laravel Framework 7.30.4
